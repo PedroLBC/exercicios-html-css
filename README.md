@@ -1,1 +1,1 @@
-# exercicios-html-css
+# Exercícios de HTML e CSS criados pelo Curso em Vídeo
